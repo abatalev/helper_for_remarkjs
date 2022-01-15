@@ -1,0 +1,8 @@
+version: "3.1"
+services:
+  static:
+    image: nginx
+    ports:
+      - 8099:80
+    volumes:
+      - ./:/usr/share/nginx/html/
