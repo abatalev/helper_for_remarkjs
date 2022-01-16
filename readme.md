@@ -2,4 +2,6 @@
 
 ## Usage
 
-Run run.sh and enjoy
+1. Launch run.sh 
+2. Open in browser http://localhost:8099/ 
+3. Еnjoy
